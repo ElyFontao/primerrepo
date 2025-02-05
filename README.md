@@ -1,2 +1,0 @@
-# primerrepo
-Mi primer repositorio
